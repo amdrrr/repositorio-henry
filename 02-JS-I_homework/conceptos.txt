@@ -1,0 +1,9 @@
+
+Definición de conceptos:
+
+
+ * Variables: Las variables son contenedores donde se almacenan valores de datos. 
+ * Strings : Se utilizan para almacenar y manipular texto.
+ * Funciones (argumentos, `return`): Las funciones están diseñadas para realizar una tarea en particular. 
+ * Declaraciones `if`: Se utilizan específicamente para ejecutar un bloque de código, si una condición especifica es verdadera. 
+ * Valores booleanos (`true`, `false`): Los valores booleanos representan valores verdaderos o falsos unicamente. 
